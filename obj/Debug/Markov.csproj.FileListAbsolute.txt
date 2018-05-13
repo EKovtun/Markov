@@ -1,0 +1,9 @@
+c:\users\эдуард\source\repos\Markov\bin\Debug\Markov.exe
+c:\users\эдуард\source\repos\Markov\bin\Debug\Markov.pdb
+c:\users\эдуард\source\repos\Markov\obj\Debug\Markov.csprojResolveAssemblyReference.cache
+c:\users\эдуард\source\repos\Markov\obj\Debug\Markov.Form1.resources
+c:\users\эдуард\source\repos\Markov\obj\Debug\Markov.Properties.Resources.resources
+c:\users\эдуард\source\repos\Markov\obj\Debug\Markov.csproj.GenerateResource.cache
+c:\users\эдуард\source\repos\Markov\obj\Debug\Markov.csproj.CoreCompileInputs.cache
+c:\users\эдуард\source\repos\Markov\obj\Debug\Markov.exe
+c:\users\эдуард\source\repos\Markov\obj\Debug\Markov.pdb
